@@ -4,6 +4,6 @@ Ex Technology Specialist at Computer Concepts USA. Aspiring C++ and Full-Stack D
 
 <ul>
   <li>My Stack: <code>.cpp</code>, <code>.c</code>, <code>.html</code>, <code>.css</code>, <code>.js</code></li>
-  <li>📚 CS Student at the University of Illionis Chicago.</code></li>
+  <li>📚 CS Student at the University of Illinois Chicago.</code></li>
   <li>🚂 Interested in SWE for Railroads.</code></li>
 </ul>
