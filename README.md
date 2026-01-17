@@ -1,6 +1,6 @@
 <h3>Witamy! (Welcome) 👋</h3>
 
-Ex Technology Specialist at Computer Concepts USA. Protector of Critical Business Assets. Aspiring Software Engineer
+Ex Technology Specialist at Computer Concepts USA. Protector of Critical Business Assets. Aspiring Software Engineer.
 
 <ul>
   <li>My Stack: <code>.cpp</code>, <code>.c</code>, <code>.html</code>, <code>.css</code>, <code>.js</code> <code>.py</code></li>
